@@ -1,0 +1,20 @@
+FUNCTIONAL REQUIREMENTS:
+
+1) The system shall provide a list of (1)MoSiWo (showing MoSiWo's name, one picture, (2)typology, (3)art movement and address) based on the (4)user’s selected (5)MoSiWo’s search filters. 
+
+2) The system shall provide to (6)Mosiwers a (1)MoSiWo (7)rating feature.
+
+3) The system shall provide information (i.e. name, at least 2 pictures, description, history, position on the map) to the (4)users about a selected (1)MoSiWo.
+
+
+
+DICTIONARY:
+
+1) MoSiWo: Monuments, sites (luoghi), works (opere, artefatti). 
+2) Typology: is monuments, sites and works.
+3) Art movement: it is Roman Empire, Gothic style, medieval style, contemporary style, religious, futuristic.
+4) User: it is logged/registered or unlogged/unregistered to the system.
+5) MoSiWo’s search filter: filters are for country, city, open-air, indoor, distance radius, monuments, sites, works, most recommended by users, preferred, (2)typology and (3)art movement.
+6) Mosiwer: it is a (4)user registered and logged to the system.
+7) rate/rating: (6)Mosiwers can rate MoSiWo (8)splendor/glory by choosing in a range of 1 -:- 5 stars.
+8) splendor/glory: subjective beauty, cleaning, state of the material or place.
