@@ -1,0 +1,22 @@
+USER STORIES:
+
+1) As a (4)user, I want to look for a list of (1)MoSiWo based on (5)typology and (6)art movement, so that I can choose the best itinerary for me.
+
+2) As an art lover, I want to (2)rate (1)MoSiWo I visited, so that I can help other users to choose the best (1)MoSiWo for them.
+
+3) As a tourist, I want to know information (i.e. description, history, position on the map, at least 2 pictures) of searched (1)MoSiWo, so that I don’t lose time for web research.
+
+
+DICTIONARY:
+
+1) MoSiWo: Monuments, sites (luoghi), works (opere, artefatti).
+
+2) rate/rating: users can rate MoSiWo (3)splendor/glory by choosing in a range of 1 -:- 5 stars.
+
+3) splendor/glory: subjective beauty, cleaning, state of the material or place.
+
+4) User: it is logged or unlogged.
+
+5) Typology: typology is monuments, sites and works.
+
+6) Art movement: it is Roman Empire, Gothic style, medieval style, contemporary style, religious, futuristic.
